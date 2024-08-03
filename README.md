@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 🤝 I’m looking for help with **Data Analysis**
+- 🤝 I’m looking for help with **Machine Learning**
 
 - 💬 Ask me about **Python, Pandas, Streamlit, Data Analysis**
 
