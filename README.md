@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikash G</h1>
 <h3 align="justify">I'm a Data Analyst by day, and a Tech Enthusiast by night (okay, every moment in between too). When I'm not busy making sense of numbers and patterns, you'll find me dissecting the latest tech gadgets like they're pieces of alien technology. I may also try to predict when the coffee machine will run out.</h3>
 
-- 🔭 I’m currently working on **Audit Automation**
+- 🔭 I’m currently working on **Fall Detection and PPE Detection**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
